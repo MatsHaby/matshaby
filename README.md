@@ -5,6 +5,7 @@
 
 ## I'm a Husband, Father, Developer in learning!
 
+-   🏫 Studying Front-End Developer at Mediainstituet
 -   🌱 I’m currently learning JavaScript
 -   👯 I’m looking for a internship 2022
 -   🥅 2021 Goals: Create so many projects i can and keep up with blog post
