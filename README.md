@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=www.matshaby.com&style=for-the-badge&url=https%3A%2F%2Fwww.matshaby.com)](https://www.matshaby.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/haby_mats?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/haby_mats)
 
-## I'm a Husband, Father, Developer in learning!
+## I'm a Husband, Father, Web Developer in learning!
 
 -   🏫 Studying Front-End Developer at Mediainstituet
 -   🌱 I’m currently learning JavaScript
