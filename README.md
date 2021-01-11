@@ -7,7 +7,7 @@
 
 -   🏫 Studying Front-End Developer at Mediainstituet
 -   🌱 I’m currently learning JavaScript
--   👯 I’m looking for a internship 2022
+-   👯 I’m looking for internship 2022
 -   🥅 2021 Goals: Create so many projects i can and keep up with blog post
 -   ⚡ Fun fact: I love to run, take my mountainbike for a ride and play video games
 
