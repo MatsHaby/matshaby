@@ -45,6 +45,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+-   [Array methods: pop() and shift()](https://www.matshaby.com/array-methods-pop-and-shift)
 -   [#100DaysOfCode](https://www.matshaby.com/100daysofcode)
 -   [Rubber duck debugging](https://www.matshaby.com/rubber-duck-debugging)
 -   [Welcome and JS - What is an Array and how to add elements to an array](https://www.matshaby.com/welcome-and-js-what-is-an-array-and-how-to-add-elements-to-an-array)
