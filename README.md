@@ -1,58 +1,66 @@
-### Hi there, I'm Mats 👋
+# Hi there, I'm Mats 👋
 
 [![Website](https://img.shields.io/website?label=www.matshaby.com&style=for-the-badge&url=https%3A%2F%2Fwww.matshaby.com)](https://www.matshaby.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/haby_mats?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/haby_mats)
 
 ## I'm a Husband, Father, Web Developer in learning!
 
--   🏫 Studying Front-End Developer at Mediainstitutet
--   🌱 I’m currently learning React
--   👯 I’m looking for internship 2022
--   🥅 2021 Goals: Create so many projects i can and keep up with blog post
--   ⚡ Fun fact: I love to run, take my mountainbike for a ride and play video games
+-   🏫 &nbsp;&nbsp;Studying Front-End Developer at Mediainstitutet
+-   🌱 &nbsp;&nbsp;I’m currently learning React and Typescript
+-   🥅 &nbsp;&nbsp;2021 Goals: Keep learning and build fun projects
+-   👾 &nbsp;&nbsp;Fun fact: I love to run, take my mountainbike for a ride and play video games
+    <br/>
+    <br/>
 
-### Connect with me:
+### Let's Connect 🔗:
 
-[<img align="left" alt="www.matshaby.com" width="22px" src="icons/global.svg" />][website]
-[<img align="left" alt="haby_mats | Twitter" width="22px" src="icons/twitter.svg" />][twitter]
-[<img align="left" alt="mats-haby-95b79136 | LinkedIn" width="22px" src="icons/linkedin.svg" />][linkedin]
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/haby_mats)
+[![Twitter Follow](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mats-haby/)
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img  alt="Visual Studio Code"  src="https://img.shields.io/badge/vscode-00161D?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=2A3138" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img  alt="HTML5" src="https://img.shields.io/badge/HTML-00161D?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=2A3138" />
+
+<img  alt="CSS3" src="https://img.shields.io/badge/CSS-00161D?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=2A3138" />
+<img  alt="Sass" src="https://img.shields.io/badge/Sass-00161D?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=2A3138" />
+
+<img  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-00161D?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=2A3138" />
 
 <!-- [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist] -->
 
 <!-- [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist] -->
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img  alt="Git" src="https://img.shields.io/badge/Git-00161D?style=for-the-badge&logo=git&logoColor=F05032&labelColor=2A3138" />
 
-<img align="left" alt="GitHub" width="26px" src="icons/github.svg" />
+<img  alt="GitHub" src="https://img.shields.io/badge/GitHub-00161D?style=for-the-badge&logo=github&logoColor=181717&labelColor=2A3138" />
+
+<img  alt="React" src="https://img.shields.io/badge/React-00161D?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2A3138" />
+
+<img  alt="TypeScript" src="https://img.shields.io/badge/TypeScript-00161D?style=for-the-badge&logo=TypeScript&logoColor=3178C6&labelColor=2A3138" />
+
+<img  alt="Figma" src="https://img.shields.io/badge/Figma-00161D?style=for-the-badge&logo=Figma&logoColor=24E1E&labelColor=2A3138" />
 
 <br />
 <br />
 
 ---
 
-### 📕 Latest Blog Posts
+### ✏️ &nbsp;&nbsp;Latest Blog Posts
 
+<br/>
 <!-- BLOG-POST-LIST:START -->
 
--   [Array methods: pop() and shift()](https://www.matshaby.com/array-methods-pop-and-shift)
--   [#100DaysOfCode](https://www.matshaby.com/100daysofcode)
--   [Rubber duck debugging](https://www.matshaby.com/rubber-duck-debugging)
--   [Welcome and JS - What is an Array and how to add elements to an array](https://www.matshaby.com/welcome-and-js-what-is-an-array-and-how-to-add-elements-to-an-array)
+📄 &nbsp;&nbsp;[Array methods: pop() and shift()](https://www.matshaby.com/array-methods-pop-and-shift)\
+📄 &nbsp;&nbsp;[#100DaysOfCode](https://www.matshaby.com/100daysofcode)\
+📄 &nbsp;&nbsp;[Rubber duck debugging](https://www.matshaby.com/rubber-duck-debugging)\
+📄 &nbsp;&nbsp;[Welcome and JS - What is an Array and how to add elements to an array](https://www.matshaby.com/welcome-and-js-what-is-an-array-and-how-to-add-elements-to-an-array)
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.matshaby.com/)
+[more blog posts...](https://www.matshaby.com/)
 
 ---
 
