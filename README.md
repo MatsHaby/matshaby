@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👾 &nbsp;&nbsp;Fun fact: I love to run, take my mountainbike for a ride and play video games
 <br/>
 
-### Let's Connect 🔗
+### Let's Connect
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/haby_mats)&nbsp;&nbsp;
 [![linkedin Follow](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mats-haby/)
@@ -34,7 +34,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-483F4E?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=2A3138)&nbsp;&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-483F4E?style=for-the-badge&logo=Figma&logoColor=24E1E&labelColor=2A3138)
 
-### ✏️ &nbsp;&nbsp;Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
