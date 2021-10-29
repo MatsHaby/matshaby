@@ -27,8 +27,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-483F4E?style=for-the-badge&logo=github&logoColor=white&labelColor=2A3138)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/React-483F4E?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2A3138)&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-483F4E?style=for-the-badge&logo=TypeScript&logoColor=3178C6&labelColor=2A3138)&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-483F4E?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=2A3138)
-![MongoDB](https://img.shields.io/badge/MongoDB-483F4E?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=2A3138)
+![Node.js](https://img.shields.io/badge/Node.js-483F4E?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=2A3138)&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-483F4E?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=2A3138)&nbsp;&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-483F4E?style=for-the-badge&logo=Figma&logoColor=24E1E&labelColor=2A3138)
 
 ### ✏️ &nbsp;&nbsp;Latest Blog Posts
