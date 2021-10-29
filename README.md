@@ -38,14 +38,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-📄 &nbsp;&nbsp;[Array methods: pop() and shift()](https://www.matshaby.com/array-methods-pop-and-shift)\
-📄 &nbsp;&nbsp;[#100DaysOfCode](https://www.matshaby.com/100daysofcode)\
-📄 &nbsp;&nbsp;[Rubber duck debugging](https://www.matshaby.com/rubber-duck-debugging)\
-📄 &nbsp;&nbsp;[Welcome and JS - What is an Array and how to add elements to an array](https://www.matshaby.com/welcome-and-js-what-is-an-array-and-how-to-add-elements-to-an-array)
+📄 &nbsp;&nbsp;[Array methods: pop() and shift()](https://matshaby.hashnode.dev/array-methods-pop-and-shift)\
+📄 &nbsp;&nbsp;[#100DaysOfCode](https://matshaby.hashnode.dev/100daysofcode)\
+📄 &nbsp;&nbsp;[Rubber duck debugging](https://matshaby.hashnode.dev/rubber-duck-debugging)\
+📄 &nbsp;&nbsp;[Welcome and JS - What is an Array and how to add elements to an array](https://matshaby.hashnode.dev/welcome-and-js-what-is-an-array-and-how-to-add-elements-to-an-array)
 
 <!-- BLOG-POST-LIST:END -->
 
-[more blog posts...](https://www.matshaby.com/)
+[more blog posts...](https://matshaby.hashnode.dev/)
 
 ---
 
