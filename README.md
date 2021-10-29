@@ -4,11 +4,14 @@
 
 ## I'm a Husband, Father, Web Developer in learning!
 
--   🏫 &nbsp;&nbsp;Studying Front-End Developer at Mediainstitutet
--   🌱 &nbsp;&nbsp;I’m currently learning React and Typescript
--   🥅 &nbsp;&nbsp;2021 Goals: Keep learning and build fun projects
--   👾 &nbsp;&nbsp;Fun fact: I love to run, take my mountainbike for a ride and play video games
-    <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏫 &nbsp;&nbsp;Studying Front-End Developer at Mediainstitutet
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 &nbsp;&nbsp;I’m currently learning React and Typescript
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥅 &nbsp;&nbsp;2021 Goals: Keep learning and build fun projects
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👾 &nbsp;&nbsp;Fun fact: I love to run, take my mountainbike for a ride and play video games
+<br/>
 
 ### Let's Connect 🔗
 
