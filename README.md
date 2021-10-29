@@ -9,14 +9,11 @@
 -   🥅 &nbsp;&nbsp;2021 Goals: Keep learning and build fun projects
 -   👾 &nbsp;&nbsp;Fun fact: I love to run, take my mountainbike for a ride and play video games
     <br/>
-    <br/>
 
 ### Let's Connect 🔗
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/haby_mats)&nbsp;&nbsp;
 [![linkedin Follow](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mats-haby/)
-
-<br />
 
 ### Languages and Tools
 
@@ -30,8 +27,6 @@
 ![React](https://img.shields.io/badge/React-483F4E?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2A3138)&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-483F4E?style=for-the-badge&logo=TypeScript&logoColor=3178C6&labelColor=2A3138)&nbsp;&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-483F4E?style=for-the-badge&logo=Figma&logoColor=24E1E&labelColor=2A3138)
-
-<br/>
 
 ### ✏️ &nbsp;&nbsp;Latest Blog Posts
 
