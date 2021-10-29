@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Father, Web Developer in learning!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏫 &nbsp;&nbsp;Studying Front-End Developer at Mediainstitutet
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏫 &nbsp;&nbsp;Studying Front-End Developer at Medieinstitutet
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 &nbsp;&nbsp;I’m currently learning React and Typescript
 </br>
@@ -40,7 +40,7 @@
 
 <a href="https://matshaby.hashnode.dev/array-methods-pop-and-shift" target="_blank">📄&nbsp;&nbsp; Array methods: pop() and shift()</a>\
 <a href="https://matshaby.hashnode.dev/100daysofcode" target="_blank">📄&nbsp;&nbsp; #100DaysOfCode</a>\
-<a href="https://matshaby.hashnode.dev/rubber-duck-debugging" target="_blank">📄&nbsp;&nbsp; #Rubber duck debugging</a>\
+<a href="https://matshaby.hashnode.dev/rubber-duck-debugging" target="_blank">📄&nbsp;&nbsp; Rubber duck debugging</a>\
 <a href="https://matshaby.hashnode.dev/welcome-and-js-what-is-an-array-and-how-to-add-elements-to-an-array" target="_blank">📄&nbsp;&nbsp; Welcome and JS - What is an Array and how to add elements to an array</a>
 
 <!-- BLOG-POST-LIST:END -->
