@@ -6,11 +6,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏫 &nbsp;&nbsp;Studying Front-End Developer at Medieinstitutet
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 &nbsp;&nbsp;I’m currently learning React and Typescript
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 &nbsp;&nbsp;I’m currently working part-time and is an intern at Standout
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥅 &nbsp;&nbsp;2021 Goals: Keep learning and build fun projects
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥅 &nbsp;&nbsp;2022 Goals: Become an employed Front-End Developer, finish my education and keep learning
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👾 &nbsp;&nbsp;Fun fact: I love to run, take my mountainbike for a ride and play video games
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 &nbsp;&nbsp;I like solving puzzles and problems.
+ </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👾 &nbsp;&nbsp;Fun fact: I love to run, take my mountainbike for a ride or take the boat for a fishing trip 🎣
 <br/>
 
 ### Let's Connect
@@ -22,13 +24,13 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/vscode-483F4E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=2A3138)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML-483F4E?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=2A3138)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/CSS-483F4E?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=2A3138)
-&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/CSS-483F4E?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=2A3138)&nbsp;&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-483F4E?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=2A3138)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-483F4E?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=2A3138)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-483F4E?style=for-the-badge&logo=git&logoColor=F05032&labelColor=2A3138)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-483F4E?style=for-the-badge&logo=github&logoColor=white&labelColor=2A3138)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/React-483F4E?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2A3138)&nbsp;&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-483F4E?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2A3138)&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-483F4E?style=for-the-badge&logo=TypeScript&logoColor=3178C6&labelColor=2A3138)&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-483F4E?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=2A3138)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-483F4E?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=2A3138)&nbsp;&nbsp;
