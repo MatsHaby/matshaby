@@ -2,7 +2,7 @@
 
 <!-- [![Website](https://img.shields.io/website?label=www.matshaby.com&style=for-the-badge&url=https%3A%2F%2Fwww.matshaby.com)](https://www.matshaby.com) -->
 
-## I'm a Husband, Father, Web Developer in learning!
+## I'm a husband, father and web developer!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;&nbsp;Working at Dasa Control Systems
 </br>
