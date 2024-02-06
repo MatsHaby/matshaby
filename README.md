@@ -1,18 +1,16 @@
 # Hi there, I'm Mats 👋
 
-[![Website](https://img.shields.io/website?label=www.matshaby.com&style=for-the-badge&url=https%3A%2F%2Fwww.matshaby.com)](https://www.matshaby.com)
+<!-- [![Website](https://img.shields.io/website?label=www.matshaby.com&style=for-the-badge&url=https%3A%2F%2Fwww.matshaby.com)](https://www.matshaby.com) -->
 
 ## I'm a Husband, Father, Web Developer in learning!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏫 &nbsp;&nbsp;Studying Front-End Developer at Medieinstitutet
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;&nbsp;Working at Dasa Control Systems
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 &nbsp;&nbsp;I’m currently working part-time and is an intern at Standout
-</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥅 &nbsp;&nbsp;2022 Goals: Become an employed Front-End Developer, finish my education and keep learning
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥅 &nbsp;&nbsp;2024 Goals: Keep learning and having fun coding!
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 &nbsp;&nbsp;I like solving puzzles and problems.
  </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👾 &nbsp;&nbsp;Fun fact: I love to run, take my mountainbike for a ride or take the boat for a fishing trip 🎣
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👾 &nbsp;&nbsp;Fun fact: I love to run, gym or take the boat for a fishing trip 🎣
 <br/>
 
 ### Let's Connect
@@ -36,18 +34,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-483F4E?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=2A3138)&nbsp;&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-483F4E?style=for-the-badge&logo=Figma&logoColor=24E1E&labelColor=2A3138)
 
-### Latest Blog Posts
+<!-- ### Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 
-<a href="https://matshaby.hashnode.dev/array-methods-pop-and-shift" target="_blank">📄&nbsp;&nbsp; Array methods: pop() and shift()</a>\
+<!-- <a href="https://matshaby.hashnode.dev/array-methods-pop-and-shift" target="_blank">📄&nbsp;&nbsp; Array methods: pop() and shift()</a>\
 <a href="https://matshaby.hashnode.dev/100daysofcode" target="_blank">📄&nbsp;&nbsp; #100DaysOfCode</a>\
 <a href="https://matshaby.hashnode.dev/rubber-duck-debugging" target="_blank">📄&nbsp;&nbsp; Rubber duck debugging</a>\
-<a href="https://matshaby.hashnode.dev/welcome-and-js-what-is-an-array-and-how-to-add-elements-to-an-array" target="_blank">📄&nbsp;&nbsp; Welcome and JS - What is an Array and how to add elements to an array</a>
+<a href="https://matshaby.hashnode.dev/welcome-and-js-what-is-an-array-and-how-to-add-elements-to-an-array" target="_blank">📄&nbsp;&nbsp; Welcome and JS - What is an Array and how to add elements to an array</a> -->
 
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://matshaby.hashnode.dev/" target="_blank"> more blog posts...</a>
+<!-- <a href="https://matshaby.hashnode.dev/" target="_blank"> more blog posts...</a> -->
 
 ---
 
